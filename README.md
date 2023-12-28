@@ -28,7 +28,7 @@ the command ``pip install mglearn`` in your terminal or ``!pip install mglearn``
 
 ## Errata
 Please note that the first print of the book is missing the following line when listing the assumed imports:
-1
+2
 ```python
 from IPython.display import display
 ```
